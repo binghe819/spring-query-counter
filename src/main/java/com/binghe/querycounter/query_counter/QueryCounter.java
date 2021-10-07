@@ -28,8 +28,4 @@ public class QueryCounter {
     public void endCount() {
         countable = false;
     }
-
-    public boolean isCountable() {
-        return countable;
-    }
 }
